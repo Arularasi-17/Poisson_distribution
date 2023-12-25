@@ -1,4 +1,4 @@
-# Date :13/10/2023
+# Date : 13/10/2023
 # EXP NO :2 Fitting Poisson  distribution
 # Aim : 
 
